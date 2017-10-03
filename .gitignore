@@ -3,3 +3,6 @@
 /Packages
 /*.xcodeproj
 Package.swift.orig
+.build_lin
+Package.resolved
+PADockerfile_build
